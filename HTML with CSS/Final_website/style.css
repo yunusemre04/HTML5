@@ -1,0 +1,164 @@
+/*CSS FİLE*/
+body{
+    
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(31, 30, 30);
+}
+#page{
+    width: 900px;
+    min-height: 600px;
+    margin:auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+header{
+    border-style: solid;
+    border-color: black;
+    width:900px;
+    height:100px;
+    background-color: black;
+    margin: auto;
+}
+header h1{
+     font-weight: 200px;
+     position: relative;
+     right:-280px;
+     font-style: italic;
+     color: white;
+}
+#logo{
+    border-style: dashed;
+    width:150px;
+    height:100px;
+    background-color: black;
+    position: relative;
+    bottom: 82px;
+    right:2px;
+}
+#social{
+    border-style: dashed;
+    width:165px;
+    height:50px;
+    background-color: black;
+    position: relative;
+    float: right;
+    bottom:185px;
+}
+.icon{
+    float: right;
+    margin-left: 5px;
+    border-style: solid;
+    border-color:white;
+}
+nav{
+    border-style: solid;
+    background-color:rgb(116, 101, 72);
+    width: 900px;
+    height: 60px;
+    position: relative;
+    right: 1px;
+    
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    border-style: solid;
+    margin: 10px;
+    width: 90px;
+    height: 38px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+    border-color: red;
+    background-color: orange;
+    float:left;
+    position: relative;
+    bottom: 90px;
+    margin-left:58px;
+    right:-50px;
+    z-index: 50;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: brown;
+    vertical-align: -15px;
+    font-size:medium;
+}
+nav ul li a:hover{
+    color:green;
+}
+
+article{
+    border-style: dotted;
+    border-color: rgb(90, 91, 91);
+    width:600px;
+    min-height:350px;
+    background-color: rgb(90, 91, 91);
+    float: left;
+    position: relative;
+    bottom: 101px;
+}
+aside{
+    border-style: dotted;
+    border-color: rgb(177, 170, 159);
+    width:296px;
+    min-height:350px;
+    background-color: rgb(177, 170, 159);
+    float: right;
+    position: relative;
+    bottom:455px;
+}
+footer{
+    
+    width:900px;
+    height:90px;
+    background-color: black;
+    float: right;
+    position: relative;
+    bottom:456px;
+}
+p.text{
+    font-family: 'Courier New', Courier, monospace;
+    color:grey;
+    font-size: 18px;
+    font-weight:bold;
+    font-style:italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+aside ul{
+    list-style-type: inherit;
+  }
+  aside ul li{
+    color: black;
+    font-size: 15px;
+    margin: 20px;
+    font-weight: 100px;
+    font-style: italic;
+    margin-left: -10px;
+  }
+  footer a{
+    text-align: center;
+    text-decoration: none;
+    margin-right: 160px;
+    position: relative;
+    right:-60px;
+    top:10px;
+    color: white;
+  }
+  footer a:hover{
+    color: red;
+  }
+  footer p{
+         text-align: center;
+         font-size: small;
+         font-style: italic;
+         position: relative;
+         top: 15px;
+         color: white;
+  }
