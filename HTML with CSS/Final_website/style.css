@@ -27,6 +27,8 @@ header h1{
      right:-280px;
      font-style: italic;
      color: white;
+     text-shadow: white 1px 1px 15px;
+
 }
 #logo{
     border-style: dashed;
@@ -39,12 +41,13 @@ header h1{
 }
 #social{
     border-style: dashed;
-    width:165px;
+    width:163px;
     height:50px;
     background-color: black;
     position: relative;
     float: right;
     bottom:185px;
+    
 }
 .icon{
     float: right;
