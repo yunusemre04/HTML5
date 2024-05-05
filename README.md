@@ -3,6 +3,6 @@ You find a Final_website folder in this folder and that is the my last project f
         <       --UPDATE--      >      
 After this training I'd continue to learn CSS and at last I have learned how to do responsive web sites.As a result of this I made a website.If you want to look my website 
 here is the link: 
-yunusemre.lovestoblog.com/v1/p7.html
+yunusemre1.lovestoblog.com/v1/p7.html
 
 (İf the website is not fullscreen you can fix to do with zoom in or zoom out)
